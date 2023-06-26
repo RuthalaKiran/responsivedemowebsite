@@ -78,7 +78,7 @@ body{
     text-transform: uppercase;
 }
 .title{
-    font-size:29px;
+    font-size:40px;
 }
 .title::before{
   content: '';
